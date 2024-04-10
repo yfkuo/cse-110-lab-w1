@@ -9,7 +9,6 @@
    - I am currently a student at University of California San Diego.
    - Major(s): Computer Science B.S.
    - Favorite programming languages: Python, C++
-4. **Locations:** 
    - Current location: San Diego.
   
 
