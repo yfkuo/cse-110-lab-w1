@@ -6,10 +6,10 @@
 1. **Name:** Fi (using nickname for privacy reason on the public web).
 2. **Occupation:** Student.
 3. **Education:**
-   - I am currently a student at University of California San Diego.
-   - Major(s): Computer Science B.S.
-   - Favorite programming languages: Python, C++
-   - Current location: San Diego.
+       - I am currently a student at University of California San Diego.
+       - Major(s): Computer Science B.S.
+       - Favorite programming languages: Python, C++
+       - Current location: San Diego.
   
 
 #### Some Fun Facts:
